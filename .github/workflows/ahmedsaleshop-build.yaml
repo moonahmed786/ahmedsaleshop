@@ -14,7 +14,7 @@ on:
         type: string
 
 env:
-  DEPLOYMENT_FOLDER: /kunden/homepages/44/d956076206/htdocs/ahmedsaleshop
+  DEPLOYMENT_FOLDER: ./ahmedsaleshop
 
 jobs:
 # Please do not rename this job
